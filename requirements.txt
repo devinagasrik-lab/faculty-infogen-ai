@@ -1,0 +1,9 @@
+streamlit
+mysql-connector-python      # or psycopg2-binary for Postgres
+pandas
+openai                     # if using OpenAI
+python-dotenv
+SQLAlchemy                 # optional ORM
+alembic                    # optional migrations
+requests
+python-multipart           # if file uploads handled via backend
